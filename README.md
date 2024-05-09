@@ -45,5 +45,5 @@ And here everything moves after each round including the bullseye.<br/>
 In this mode your goal is to kill as many zombies as possible to save the hostages, if you end up hitting a hostage you lose points, the number of hostages is determined by the difficulty.
 
 ## Admin Panel [👨‍💻🛠️]:
-![Axepocalypse (DEBUG) - Godot 002976](https://github.com/AhmedElKadii/Axepocalypse/assets/166130877/86d1d4f8-64bf-4e29-a3c1-30b73aaa3f24)
+![Axepocalypse (DEBUG) - Godot 002976](https://github.com/AhmedElKadii/Axepocalypse/assets/166130877/86d1d4f8-64bf-4e29-a3c1-30b73aaa3f24)<br/>
 in this menu, the admin can modify and save the position, scale, and orientation of anything in the game, there is also an option to reset the values in case you ruin things.
